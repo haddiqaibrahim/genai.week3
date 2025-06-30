@@ -1,0 +1,11 @@
+Week 1:
+- Learned the basics of Generative AI and how it works with LLMs like ChatGPT.
+- Understood prompt engineering: how writing better prompts gives better results.
+- Explored different GenAI tools and their use in content creation, summarization, and Q&A.
+- Used simple text prompts to generate answers and summaries.
+
+Week 2:
+- Learned how to write effective prompts using role-based techniques.
+- Explored tools like ChatGPT, Gemini, and Claude for enhancing prompt results.
+- Practiced using structured prompts (e.g., step-by-step instructions, personas).
+- Understood ethical usage and limitations of GenAI tools.
